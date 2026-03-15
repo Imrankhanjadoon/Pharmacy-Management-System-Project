@@ -48,7 +48,7 @@ This system helps manage medicines, admin authentication, and basic pharmacy ope
 
 
 
-git clone https://github.com/yourusername/pharmacy-management-system.git
+git clone https://github.com/Imrankhanjadoon/pharmacy-management-system.git
 
 
 
